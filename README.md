@@ -18,6 +18,6 @@ Thanks for stopping by, and happy coding!
 
 ---
 
-🐧 **Linux • Python • Open Source • Desktop Applications**
+**Linux • Python • Open Source • Desktop Applications**
 
 🔗 [brunonlinespace](https://github.com/brunonlinespace) | [LinSpectacles](https://github.com/linspectacles) | [My Homepage](https://brunonline.space)
