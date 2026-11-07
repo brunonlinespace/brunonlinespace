@@ -4,7 +4,7 @@ I'm Bruno, a newbie **Python developer** 🐍 and passionate **Linux enthusiast*
 
 My work revolves around two growing open-source ecosystems:
 
-**Suite Pythoine** — A collection of independent desktop applications, editors, and utilities designed to make everyday editing more enjoyable; no fuss, no online accounts, no AI built-in.
+**Suite Pythoine** — A collection of independent desktop applications, editors, and utilities designed to make everyday computing more enjoyable; no fuss, no online accounts, no AI built-in.
 
 **[LinSpectacles](https://github.com/linspectacles)** — A family of Linux system inspectors focused on exploring, understanding, and making sense of what's happening under the hood.
 
